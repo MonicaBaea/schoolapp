@@ -1,0 +1,8 @@
+.shape {
+    height: 0;
+    width: 0;
+    padding-left: 12px;
+    border-bottom: 20px solid black;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+  }
